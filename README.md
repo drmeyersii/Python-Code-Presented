@@ -1,10 +1,6 @@
 # Portfolio
 ## Python-Code-Presented
-
-An Instacart analysis with a full documented workflow to determine which regions and demographics are best to market to based on the historical data.
-
-# Portfolio
-## **Python deliverables**
+### **Python deliverables**
 
 - Project folder follows industry standards in terms of structure and naming conventions.
 
