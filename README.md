@@ -64,7 +64,7 @@ shows the merged data set is a 100% match to the combined original data sets.
 > - At least 4 types of data visualizations have been generated to communicate insights
 to stakeholders. Visualizations are clearly labeled.
 
-> **03 Visualizations**
+**03 Visualizations**
 > - Saved visualizations location from scripts.
 
 **04 Sent to Client**
